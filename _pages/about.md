@@ -6,11 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![The Arrival of 6G!](/images/hp_image1.jpg){: .align-right width = '300px'}
-A BUET trained electrical engineer specializing in communication and signal processing who wants to delve into real world application of wireless communication. Teams where I can add value to:
+![The Arrival of 6G!](/images/dp_image2.png){: .align-right width = '300px'}
+I am a BUET trained electrical engineer with a strong academic background in communication and signal processing. My research interests lie in next-generation wireless communication technologies, particularly 5G and 6G systems.
 
- R&D in Wireless Device
- Wireless Transmission System
- 5G/6G Technologies and Application Development
+During my undergraduate studies, I gained extensive experience in wireless, radar, satellite and microwave communications. Under the supervision of Dr. Md. Forkan Uddin, I investigated pilot allocation and power control optimization for cell-free massive MIMO, focusing on minimizing channel estimation error. I am proficient in MATLAB, C and Python; and actively apply these skills to solve complex problems in wireless communication systems.
 
-I am confident, resourceful and highly adaptable, enabling me to handle challenges effectively and contribute meaningfully to achieving organizational goals.
+I am interested in pursuing higher studies in wireless communication systems where I intend to explore network architecture, NFV, SDN, network slicing and novel air interfaces. My objective is to advance the development of next-generation wireless networks through rigorous research and innovation.
