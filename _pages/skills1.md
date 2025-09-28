@@ -1,10 +1,11 @@
 ---
 layout: archive
+title: "Technical Skills"
 permalink: /skills1/
 author_profile: true
 ---
-
-
+## Technical Skills
+<br><br>
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin-top:30px;">
 
