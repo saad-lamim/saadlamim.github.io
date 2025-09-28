@@ -12,3 +12,5 @@ A BUET trained electrical engineer specializing in communication and signal proc
  Wireless Transmission System
  5G/6G Technologies and Application Development
 I am confident, resourceful and highly adaptable, enabling me to handle challenges effectively and contribute meaningfully to achieving organizational goals.
+
+(/images/hp_image1.jpg){: .align-right width = '500px'}
