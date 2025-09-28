@@ -5,7 +5,9 @@ permalink: /publications1/
 author_profile: true
 ---
 
-### [Joint Pilot Assignment and Pilot Power Allocation to Minimize Channel Estimation Error in Cell-free Massive MIMO Communications](/files/research_paper.pdf)
+[### Joint Pilot Assignment and Pilot Power Allocation to Minimize Channel Estimation Error in Cell-free Massive MIMO Communications](/files/research_paper.pdf)
+
+_Submitted in [IEEE ICTP 2025](htttps://https://ieee-ictp.buet.ac.bd)_ 
 
 In cell free massive MIMO communications, optimal
 pilot assignment for reducing pilot contamination and normalized
