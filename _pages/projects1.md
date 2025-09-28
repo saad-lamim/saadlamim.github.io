@@ -100,6 +100,3 @@ author_profile: true
   </div>
 
 </div>
-
-### Complete Electrical Service Design of a Building  
-Designed a complete electrical service from power supply to end-point devices. Prepared different ground, floor, and roof plans with exact power ratings using AutoCAD.
