@@ -10,13 +10,13 @@
 main:
 
   - title: "Publication"
-    url: /publications/
+    url: /publications1/
 
   - title: "Skills"
-    url: 
+    url: /skills1/
  
   - title: "Projects"
-    url:
+    url: /projects1/
 
   - title: "Resume"
     url: /files/Resume1.pdf
