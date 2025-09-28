@@ -3,7 +3,9 @@ layout: archive
 permalink: /skills1/
 author_profile: true
 ---
-## Technical Skills
+
+
+
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin-top:30px;">
 
   <!-- Card 1 -->
