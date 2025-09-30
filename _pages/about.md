@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="images/dp_image3.png" style="float: right; margin-left: 15px;" width="300">
+<img src="images/dp_image3.png" style="float: right; margin-left: 15px;" width="200">
 
 I am a BUET trained electrical engineer with a strong academic background in communication and signal processing. My research interests lie in next-generation wireless communication technologies, particularly 5G and 6G systems.
 
