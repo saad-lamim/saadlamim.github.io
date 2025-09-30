@@ -23,7 +23,7 @@ repository               : "saad-lamim/saad-lamim.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.jpeg"
+  avatar           : "lamim_profile.jpg"
   name             : "Nazmus Saad Lamim"
   pronouns         : # example: "she/her"  
   bio              : "Electrical Engineer"
